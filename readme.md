@@ -49,3 +49,5 @@ opam exec -- dune exec YOUR_PROJECT_NAME
 
 - Awesome Multicore OCaml
     - https://github.com/ocaml-multicore/awesome-multicore-ocaml#installation
+
+<!-- README FIXED -->
