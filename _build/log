@@ -1,0 +1,23 @@
+# dune exec ocaml_quickstart
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/gukbeomlee/.cache/dune/db
+# Workspace root: /Users/gukbeomlee/projects/ocaml-quickstart/ocaml_quickstart
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/gukbeomlee/projects/ocaml-quickstart/ocaml_quickstart/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/gukbeomlee/.opam/5.1.0/bin/ocamlc.opt -config > /var/folders/fs/vmck21l951g23dq1hxpfpx3r0000gn/T/dune_5a72cb_output
