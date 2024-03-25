@@ -17,7 +17,7 @@ eval $(opam env)
 ```
 
 # Create Project
-
+- 참고 : https://ocaml.org/docs/your-first-program
 ```
 opam exec -- dune init proj YOUR_PROJECT_NAME
 ```
@@ -34,6 +34,9 @@ opam exec -- dune exec YOUR_PROJECT_NAME
 ```
 
 # 참고자료
+
+- how to use opan
+    - https://opam.ocaml.org/doc/Usage.html
 
 - 공식 튜토리얼 : Effect handlers
     - https://v2.ocaml.org/manual/effects.html
