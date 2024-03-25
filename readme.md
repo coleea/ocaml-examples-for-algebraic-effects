@@ -1,3 +1,5 @@
+# ⚠️ THIS REPOSITORY IS WORK IN PROGRESS
+
 # in MacOS
 
 # Install OCaml
@@ -33,11 +35,14 @@ opam exec -- dune exec YOUR_PROJECT_NAME
 
 # 참고자료
 
-- Awesome Multicore OCaml
-    - https://github.com/ocaml-multicore/awesome-multicore-ocaml#installation
-
 - 공식 튜토리얼 : Effect handlers
     - https://v2.ocaml.org/manual/effects.html
 
-- ocaml-effects-tutorial
+- 공식 튜토리얼 : ocaml-effects-tutorial
     - https://github.com/ocaml-multicore/ocaml-effects-tutorial
+
+- 공식 예제 : OCaml effects examples
+    - https://github.com/ocaml-multicore/effects-examples
+
+- Awesome Multicore OCaml
+    - https://github.com/ocaml-multicore/awesome-multicore-ocaml#installation
